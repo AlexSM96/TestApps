@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XMLReaderApp_Task1", "XMLReaderApp_Task1", "{1EB1B5F4-1F99-46B3-9C67-A4DC3834D690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLReader", "XMLReader\XMLReader.csproj", "{8EDF84B5-9CED-4B80-95AA-DB981CBBA3BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BankApp_Task2", "BankApp_Task2", "{8384CA3A-45B2-459C-81A9-E8AFF807CFCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{4E20ABF9-D101-4507-9D48-D9F23C53FF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDF84B5-9CED-4B80-95AA-DB981CBBA3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF84B5-9CED-4B80-95AA-DB981CBBA3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF84B5-9CED-4B80-95AA-DB981CBBA3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF84B5-9CED-4B80-95AA-DB981CBBA3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E20ABF9-D101-4507-9D48-D9F23C53FF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E20ABF9-D101-4507-9D48-D9F23C53FF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E20ABF9-D101-4507-9D48-D9F23C53FF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E20ABF9-D101-4507-9D48-D9F23C53FF78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8EDF84B5-9CED-4B80-95AA-DB981CBBA3BF} = {1EB1B5F4-1F99-46B3-9C67-A4DC3834D690}
+		{4E20ABF9-D101-4507-9D48-D9F23C53FF78} = {8384CA3A-45B2-459C-81A9-E8AFF807CFCA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49F6A88F-A510-4691-B09B-62EB00F175B1}
+	EndGlobalSection
+EndGlobal
